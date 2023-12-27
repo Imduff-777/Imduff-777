@@ -2,24 +2,26 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=29&duration=2500&pause=2200&color=4BFF00&center=true&vCenter=true&random=false&width=435&lines=%3Cscript%3Ealert(1)%3C%2Fscript%3E;No+XSS+reflected+)%3A" alt="Typing SVG" /></a>
 </div>
 
-<br><br><br>
 
-<img align="right" width="420" src="https://steamuserimages-a.akamaihd.net/ugc/854976916434675605/0A7FF9FDC45305AB9F1B4F51DCAC315274B28F96/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" />
-<br/>
-<!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sono&weight=100&size=23&duration=4996&pause=1000&color=F72EBDFF&width=435&lines=Gabrielly+Tiberio;Java+Full+Stack+Dev" alt="Typing SVG" /></a> -->
 
 # <picture><img src = "https://github.com/MdAmiruddin/MdAmiruddin/blob/main/Assets/about_me.gif" width = 50px></picture> **Sobre mim**
-<ul>
-  <li> 👋 Imduff - Estudante de hacking e programação.</li>
-  <li> 🔒 Interessado em hacking ético e segurança cibernética.</li>
-  <li> 🌐 Habilidades em desenvolvimento web.</li>
-  <li> 💞️ Em um relacionamento sério com Kali Linux.</li>
-</li>
-</ul>
+<picture> <img align="right" src="https://steamuserimages-a.akamaihd.net/ugc/854976916434675605/0A7FF9FDC45305AB9F1B4F51DCAC315274B28F96/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width = 295px></picture>
 
-##
 
-<br><br><br><br><br><br>
+
+
+### - 👋 Imduff - Estudante de hacking e programação.
+### - 🔒 Interessado em hacking ético e segurança cibernética.
+### - 🌐 Habilidades em desenvolvimento web.
+### - 💞️ Em um relacionamento sério com Kali Linux.
+### - 💻 Empenhado em fortalecer habilidades ofensivas.
+
+
+#
+
+ 
+
+<br><br><br>
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
