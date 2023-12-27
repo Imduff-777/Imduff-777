@@ -23,7 +23,9 @@
 
 <br><br>
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
+<br>
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -44,10 +46,18 @@
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-# 📊 GitHub Stats:
+#
+
+<br><br>
+
+
+ 
+#  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50"><b>Github Stats </b>
+
+<br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Imduff-777&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&order=1" height="160" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Imduff-777&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&order=2" height="160" alt="languages graph"  />
 </div>
 
-###
+#
