@@ -1,7 +1,22 @@
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=120&section=header"/>
+
+
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=29&duration=2500&pause=2200&color=4BFF00&center=true&vCenter=true&random=false&width=435&lines=%3Cscript%3Ealert(1)%3C%2Fscript%3E;No+XSS+reflected+)%3A" alt="Typing SVG" /></a>
 </div>
 
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Imduff-777&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Imduff-777&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=true&order=2" height="200" alt="languages graph"  />
+</div>
+
+---
+
+<br><br>
 
 
 # <picture><img src = "https://github.com/MdAmiruddin/MdAmiruddin/blob/main/Assets/about_me.gif" width = 50px></picture> **Sobre mim**
@@ -15,6 +30,7 @@
 ### - 🌐 Habilidades em desenvolvimento web.
 ### - 💞️ Em um relacionamento sério com Kali Linux.
 ### - 💻 Empenhado em fortalecer habilidades ofensivas.
+
 
 
 #
@@ -51,19 +67,6 @@
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
-
-<br><br>
-
- 
-### 📊 GitHub Stats
-#
-
-
 <br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Imduff-777&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&order=1" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Imduff-777&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&order=2" height="160" alt="languages graph"  />
-</div>
 
-#
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=120&section=footer"/>
