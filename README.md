@@ -11,11 +11,11 @@
 
 
 
-#### - 👋 Imduff - Estudante de hacking e programação.
-#### - 🔒 Interessado em hacking ético e segurança cibernética.
-#### - 🌐 Habilidades em desenvolvimento web.
-#### - 💞️ Em um relacionamento sério com Kali Linux.
-#### - 💻 Empenhado em fortalecer habilidades ofensivas.
+### - 👋 Imduff - Estudante de hacking e programação.
+### - 🔒 Interessado em hacking ético e segurança cibernética.
+### - 🌐 Habilidades em desenvolvimento web.
+### - 💞️ Em um relacionamento sério com Kali Linux.
+### - 💻 Empenhado em fortalecer habilidades ofensivas.
  
 
 <br><br><br>
