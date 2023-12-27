@@ -4,7 +4,7 @@
 
 <br><br><br>
 
-<img align="right" width="430" src="https://steamuserimages-a.akamaihd.net/ugc/854976916434675605/0A7FF9FDC45305AB9F1B4F51DCAC315274B28F96/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" />
+<img align="right" width="420" src="https://steamuserimages-a.akamaihd.net/ugc/854976916434675605/0A7FF9FDC45305AB9F1B4F51DCAC315274B28F96/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" />
 <br/>
 <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sono&weight=100&size=23&duration=4996&pause=1000&color=F72EBDFF&width=435&lines=Gabrielly+Tiberio;Java+Full+Stack+Dev" alt="Typing SVG" /></a> -->
 
