@@ -11,11 +11,11 @@
 
 
 
-### - 👋 Imduff - Estudante de hacking e programação.
-### - 🔒 Interessado em hacking ético e segurança cibernética.
-### - 🌐 Habilidades em desenvolvimento web.
-### - 💞️ Em um relacionamento sério com Kali Linux.
-### - 💻 Empenhado em fortalecer habilidades defensivas e ofensivas.
+#### - 👋 Imduff - Estudante de hacking e programação.
+#### - 🔒 Interessado em hacking ético e segurança cibernética.
+#### - 🌐 Habilidades em desenvolvimento web.
+#### - 💞️ Em um relacionamento sério com Kali Linux.
+#### - 💻 Empenhado em fortalecer habilidades ofensivas.
  
 
 <br><br><br>
@@ -31,10 +31,9 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 # 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Imduff-777&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&order=1" height="135" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Imduff-777&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&order=2" height="135" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Imduff-777&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5&order=3" height="135" alt="streak graph"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Imduff-777&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Imduff-777&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
