@@ -25,7 +25,7 @@
 
 
 
-### - 👋 Erick - Estudante de hacking e programação.
+### - 👋 Imduff - Estudante de hacking e programação.
 ### - 🔒 Interessado em hacking ético e segurança cibernética.
 ### - 🌐 Habilidades em desenvolvimento web.
 ### - 💻 Empenhado em fortalecer habilidades ofensivas.
