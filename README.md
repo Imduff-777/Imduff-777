@@ -10,8 +10,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Imduff-777&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=true&order=1" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Imduff-777&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=true&order=2" height="160" alt="languages graph"  />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Imduff-777&theme=hacker" alt="GitHub Streak" /></a>
 </div>
 
 ---
